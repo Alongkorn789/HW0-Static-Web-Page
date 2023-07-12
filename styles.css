@@ -1,0 +1,31 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 100px;
+}
+
+header {
+  text-align: center;
+}
+
+.container {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.herb {
+  width: 400px;
+  margin: 80;
+  padding: 80px;
+  
+}
+
+.herb img {
+  width: 120%;
+  height: 80%;
+}
+
+.herb h2 {
+  color: #333;
+  margin-top: 0;
+}
+
